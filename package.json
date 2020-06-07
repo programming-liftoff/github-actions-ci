@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-ci",
+  "version": "1.0.0",
+  "description": "Example of continuous integration using GitHub Actions",
+  "main": "add.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-liftoff/github-actions-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-liftoff/github-actions-ci/issues"
+  },
+  "homepage": "https://github.com/programming-liftoff/github-actions-ci#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
